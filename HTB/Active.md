@@ -11,7 +11,7 @@ usamos el comando `extractPorts allPorts`
 
 ![image](https://user-images.githubusercontent.com/86425612/170834662-8d9d0b0c-f2da-4756-a5f9-d3c06c0e622e.png)
 
-Nos permite copiar y pegar los puertos detectados comodamente en otra comanda nmap mas exhaustiva:
+Nos permite copiar y pegar los puertos detectados comodamente en otro comando nmap mas exhaustivo:
 
 ![image](https://user-images.githubusercontent.com/86425612/170834875-12622c06-6e7a-417c-a480-4af7dcfba0c2.png)
 
