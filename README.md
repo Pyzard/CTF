@@ -12,5 +12,5 @@
 ### Linux
 
 - Nibbles
-- Devel
+- Lame
 - Bashed
