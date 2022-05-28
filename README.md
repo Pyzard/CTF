@@ -5,7 +5,12 @@
 ### Windows
 
 - [Active](https://github.com/Pyzard/CTF/blob/main/HTB/Active.md)
+- Devel
+- Buff
+- Jerry
 
 ### Linux
 
-- Prueba
+- Nibbles
+- Devel
+- Bashed
